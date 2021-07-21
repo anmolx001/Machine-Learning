@@ -1,5 +1,6 @@
 # Machine-Learning
-# Regression_Model_to_Predict_carPrice
+# Regression_Model_to_Predict_Used_Car_Price
+
 ML model Problem Statement: You will be predicting the costs of used cars given the data collected from various sources and distributed across various locations in India.
 
 FEATURES:
